@@ -3,3 +3,5 @@
 GitHub　Patchwork仙台
 
 Git-it作成中
+
+コミット作成　終了
